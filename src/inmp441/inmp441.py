@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: Apache-2.0
+
 """
 I2S microphone capture utilities for the INMP441 on MicroPython.
 

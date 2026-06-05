@@ -93,4 +93,13 @@ mic.close()
 
 ## License
 
-Use the same license policy as the parent repository.
+This project is licensed under Apache-2.0.
+
+Why Apache-2.0 for this project:
+
+- Like MIT/BSD, it stays permissive and business-friendly.
+- It adds explicit patent grant and patent retaliation terms,
+  which is useful for hardware-adjacent/open collaboration projects.
+- It keeps contribution and redistribution rules clear for long-term use.
+
+See LICENSE for the full text.

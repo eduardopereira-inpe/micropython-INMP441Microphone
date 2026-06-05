@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: Apache-2.0
+
 import time
 
 from inmp441 import INMP441, write_wav_header

@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: Apache-2.0
+
 from .inmp441 import INMP441
 from .wav_utils import write_wav_header, WavHeader
 
