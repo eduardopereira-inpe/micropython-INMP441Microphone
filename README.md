@@ -46,12 +46,21 @@ Option 2: Install from a local folder
 - Push button
 - Optional passive buzzer
 
-#### Circuit Example
-[![Circuit Example](./images/circuit_example.jpeg)](./images/circuit_example.jpeg)
 
 #### Diagram Connection
 
 [![Diagram ](./images/circuit_diagram_example.png)](./images/circuit_diagram_example.png)
+
+### Pin Connections (NodeMCU ESP32-WROOM -> INMP441)
+
+| ESP32 (NodeMCU) | INMP441 Microphone |
+|---|---|
+| GND | L/R |
+| GND | GND |
+| 3V3 | VDD |
+| D33 (GPIO33) | SD |
+| D32 (GPIO32) | SCK |
+| D25 (GPIO25) | WS |
 
 ### Code
 
